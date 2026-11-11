@@ -52,3 +52,17 @@ As capturas dos comandos e resultados serão organizadas na pasta `evidencias/`.
 ---
 
 **Projeto educacional realizado em ambiente virtualizado, utilizando contas e informações fictícias.**
+
+## 📷 Evidências
+
+### Permissões configuradas
+![Permissões Linux](evidencias/1-%20permissoes.png)
+
+### Teste de escrita
+![Teste de escrita](evidencias/2-%20teste-escrita.png)
+
+### Teste de leitura
+![Teste de leitura](evidencias/3-%20teste-leitura.png)
+
+### Usuários e grupos
+![Usuários e grupos](evidencias/4-%20usuarios-grupos.png)
